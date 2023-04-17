@@ -28,5 +28,6 @@ int main()
 	cin >> m ;
 	y = round(a, m );
 	cout << " Ket qua la " << y << endl;
-	return 1 ;
+	return 1 ; 
+	//thang 124
 }
