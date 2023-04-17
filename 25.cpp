@@ -10,7 +10,8 @@ int main(){
        long long n ;
        scanf("%lld",&n) ;
        if (uocso(n)) printf("YES") ;
-       else printf("NO") ;
+       else printf("NO") ; 
+       hasnfgasa
 return 0;
 }
 
