@@ -50,5 +50,5 @@ int main(){
 	cout << n <<" "; 
 	if (prime==0)cout<<"khong phai so nguyen to";
 	else cout << "day la so nguyen to";
-
+	iashdjakdjahjsdbja
 }
